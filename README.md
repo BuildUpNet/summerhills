@@ -14,8 +14,3 @@ A modern e-commerce website for Summerhill Liquor, built with Laravel and Bootst
 - Bootstrap 5  
 - HTML, CSS, JavaScript  
 
-## Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/tanya-batra/summerhill.git
